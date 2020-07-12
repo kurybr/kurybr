@@ -3,6 +3,7 @@ I'm a _FrontEnd Developer_ \n 👨🏿‍💻
 
 ## Description
 Tentando entender o Javascript desde 2013 e esse mundo da tecnologia desde 2009.
+
 Atualmente a procura de oportunidades de emprego, enquanto trabalho como consultor/desenvolvedor em projetos de forma independente.
 
 ## Historic 🧙🏿
