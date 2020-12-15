@@ -3,18 +3,11 @@ I'm a _FrontEnd Developer_ \n 👨🏿‍💻
 
 ## Description
 Tentando entender o Javascript desde 2013 e esse mundo da tecnologia desde 2009.</br>
-Atualmente a procura de oportunidades de emprego, enquanto trabalho como consultor/desenvolvedor em projetos de forma independente.
 
-## Historic 🧙🏿
-
-_Foregon_ - 2019-2020 - FrontEnd Developer 
-
-_Adlib_ - 2017-2019 - UX/UI Developer 
-
-_Uxer_ - 2014 - 2017 - CTO 
+Developando na [Fix](https://fix.com.br/)
 
 ## Goals 🚀 
-Meus objetivos futuros estão em aprimorar meu _Inglês_ para atingir mercados fora do brasil.
+Meus objetivos futuros estão em aprimorar meu _Inglês_;
 E como __sub-objetivos__ estaria aprender inteligencia artificial aplicada a UX/UI.
 E fora da área "online" quero aprender a trabalhar com coisas mais voltadas a internet das coisas (esse objetivo é mais longo prazo)
 
